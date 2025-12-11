@@ -27,6 +27,7 @@ record(mbbo, "example:mbboSoft") {
     field(THVL, 3)
 }
 ````
+**Note**: ChatGPT can make mistakes. The values of `ZRVL`, `ONVL`, etc. can be > 15. However, the field of VAL (the value of `example:mbboSoft`) must be <= 15.
 
 ---
 
