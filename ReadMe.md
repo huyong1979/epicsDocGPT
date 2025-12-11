@@ -1,3 +1,6 @@
+**Note:** To quickly copy & paste ChatGPT's answer to .md file, use this kind of promt: 
+```Please display the full Markdown content for this question: your-smart-question```
+
 # EPICS (Experimental Physics and Industrial Control System) – Summary
 
 ## Tagline:
